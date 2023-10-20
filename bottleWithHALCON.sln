@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bottleWithHALCON", "bottleWithHALCON.csproj", "{75814F2F-7AEE-4FAE-AC6C-9C5763B2AF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75814F2F-7AEE-4FAE-AC6C-9C5763B2AF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75814F2F-7AEE-4FAE-AC6C-9C5763B2AF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75814F2F-7AEE-4FAE-AC6C-9C5763B2AF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75814F2F-7AEE-4FAE-AC6C-9C5763B2AF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81C54EA-A9A9-4124-90EA-67431EB4CAA4}
+	EndGlobalSection
+EndGlobal

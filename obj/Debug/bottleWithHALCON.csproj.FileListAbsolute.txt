@@ -1,0 +1,13 @@
+D:\vs\bottleWithHALCON\bin\Debug\bottleWithHALCON.exe.config
+D:\vs\bottleWithHALCON\bin\Debug\bottleWithHALCON.exe
+D:\vs\bottleWithHALCON\bin\Debug\bottleWithHALCON.pdb
+D:\vs\bottleWithHALCON\bin\Debug\halcondotnet.dll
+D:\vs\bottleWithHALCON\bin\Debug\halcondotnet.xml
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.csproj.AssemblyReference.cache
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.Form1.resources
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.Properties.Resources.resources
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.csproj.GenerateResource.cache
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.csproj.CoreCompileInputs.cache
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.csproj.CopyComplete
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.exe
+D:\vs\bottleWithHALCON\obj\Debug\bottleWithHALCON.pdb
